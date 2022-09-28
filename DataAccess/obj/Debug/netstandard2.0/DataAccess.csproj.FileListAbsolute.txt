@@ -1,0 +1,15 @@
+C:\Users\Abdullah\source\repos\rentacar\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+C:\Users\Abdullah\source\repos\rentacar\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\Abdullah\source\repos\rentacar\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\Abdullah\source\repos\rentacar\DataAccess\bin\Debug\netstandard2.0\Core.dll
+C:\Users\Abdullah\source\repos\rentacar\DataAccess\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\Abdullah\source\repos\rentacar\DataAccess\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\Abdullah\source\repos\rentacar\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\Abdullah\source\repos\rentacar\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Abdullah\source\repos\rentacar\DataAccess\obj\Debug\netstandard2.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdullah\source\repos\rentacar\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Abdullah\source\repos\rentacar\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\Users\Abdullah\source\repos\rentacar\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah\source\repos\rentacar\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
+C:\Users\Abdullah\source\repos\rentacar\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+C:\Users\Abdullah\source\repos\rentacar\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb

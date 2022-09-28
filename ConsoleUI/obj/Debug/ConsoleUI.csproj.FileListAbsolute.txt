@@ -1,0 +1,3 @@
+C:\Users\Abdullah\source\repos\rentacar\ConsoleUI\obj\Debug\ConsoleUI.csproj.AssemblyReference.cache
+C:\Users\Abdullah\source\repos\rentacar\ConsoleUI\obj\Debug\ConsoleUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Abdullah\source\repos\rentacar\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
